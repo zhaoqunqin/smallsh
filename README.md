@@ -1,4 +1,6 @@
 # smallsh
+Compiled on 20.04.1-Ubuntu with command gcc *.c -o smallsh
+
 Smallsh will implement a subset of features of well-known shells, 
 such as bash. This program will:
 
